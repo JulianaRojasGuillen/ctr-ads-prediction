@@ -6,3 +6,40 @@ train_shuffled.csv
 train.csv
 train.gz
 train.h5
+train_shuffled.h5
+train_shuffled_with_columns.h5
+train_shuffled_with_columns.csv
+1_code.ipynb
+1_v2_code.ipynb
+1_v2_device_delete_code_more_models_and_feature_importance.ipynb
+1_v3_device_moredata_delete_code_more_models_and_feature_importance.ipynb
+2_code_device_id.ipynb
+3_code_feature_hashing.ipynb
+4_code_feature_hashing_deleted_device_id.ipynb
+5_feature_hashing.ipynb
+6_1_final_preprocessing_and_models.ipynb
+6_2_final_device_quit_preprocessing_and_models.ipynb
+6_3_final_sin_cos.ipynb
+6_3_v2_final_sin_cos_no_new_features.ipynb
+6_3_v3_final_sin_cos_no_new_features_device_deleted.ipynb
+6_4_tuning.ipynb
+6_4_v2_tuning_continuos_time.ipynb
+6_4_v3_tuning_continuos_time copy.ipynb
+6_5_v4_direct_matrix.ipynb
+6_final_EDA.ipynb
+7_final_catboost_sin_cos.ipynb
+7_final_catboost.ipynb
+7_v3_final_catboost_grid_search.ipynb
+8_clustering_2.ipynb
+8_clustering.ipynb
+9_final_stacking.ipynb
+11_catboost_v0 copy.ipynb
+11_catboost_v1.ipynb
+12_catboost_v2.ipynb
+12_catboost_v3..ipynb
+13_feature_hashing.ipynb
+14_dynamic_feature_hashing.ipynb
+15_dynamic_feature_hashing count..ipynb
+code_dask.ipynb
+train_shuffled.rar
+1_v2_code_more_models_and_feature_importance.ipynb
